@@ -604,6 +604,10 @@ pre code {
   .container {
     max-width: 720px;
   }
+  .masthead {
+    height: 100%;
+    padding: 0;
+  }
 }
 
 @media (min-width: 992px) {
